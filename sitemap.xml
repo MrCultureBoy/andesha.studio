@@ -4,4 +4,8 @@
   <url><loc>https://andesha.studio/en/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/"/></url>
   <url><loc>https://andesha.studio/mentions-legales/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/mentions-legales/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/legal/"/></url>
   <url><loc>https://andesha.studio/en/legal/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/mentions-legales/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/legal/"/></url>
+  <url><loc>https://andesha.studio/confidentialite/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/confidentialite/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/privacy/"/></url>
+  <url><loc>https://andesha.studio/en/privacy/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/confidentialite/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/privacy/"/></url>
+  <url><loc>https://andesha.studio/credits/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/credits/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/credits/"/></url>
+  <url><loc>https://andesha.studio/en/credits/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://andesha.studio/credits/"/><xhtml:link rel="alternate" hreflang="en" href="https://andesha.studio/en/credits/"/></url>
 </urlset>
