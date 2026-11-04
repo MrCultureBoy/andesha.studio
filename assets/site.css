@@ -1,8 +1,8 @@
 /* andesha.studio — charte « Encre et laiton » (EI, 09/10/2026).
    Retenue = premium : titres modérés, une seule couleur d'accent, le mouvement fait le dynamisme. */
-@font-face { font-family: "Bodoni Moda"; src: url("/andesha.studio/assets/polices/bodoni-moda.woff2") format("woff2"); font-weight: 400 900; font-display: swap; }
-@font-face { font-family: "Bodoni Moda"; src: url("/andesha.studio/assets/polices/bodoni-moda-italique.woff2") format("woff2"); font-weight: 400 900; font-style: italic; font-display: swap; }
-@font-face { font-family: "Figtree"; src: url("/andesha.studio/assets/polices/figtree.woff2") format("woff2"); font-weight: 300 900; font-display: swap; }
+@font-face { font-family: "Bodoni Moda"; src: url("/assets/polices/bodoni-moda.woff2") format("woff2"); font-weight: 400 900; font-display: swap; }
+@font-face { font-family: "Bodoni Moda"; src: url("/assets/polices/bodoni-moda-italique.woff2") format("woff2"); font-weight: 400 900; font-style: italic; font-display: swap; }
+@font-face { font-family: "Figtree"; src: url("/assets/polices/figtree.woff2") format("woff2"); font-weight: 300 900; font-display: swap; }
 
 :root {
   --nuit: #0E1A2B;
