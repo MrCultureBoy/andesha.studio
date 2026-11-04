@@ -47,7 +47,7 @@ nav a:hover::after, nav a:focus-visible::after { right: 0; }
 .langue::after { display: none; }
 
 /* Accueil */
-.accueil { position: relative; overflow: clip; overflow-clip-margin: 0; max-width: var(--large); margin: 0 auto; padding: clamp(80px, 16vh, 170px) 16px clamp(80px, 14vh, 140px); }
+.accueil { position: relative; max-width: var(--large); margin: 0 auto; padding: clamp(80px, 16vh, 170px) 16px clamp(80px, 14vh, 140px); }
 .sceau-fond { position: absolute; right: max(-120px, -8vw); top: 40px; width: min(560px, 70vw); height: auto; opacity: .9; pointer-events: none; }
 .sceau-fond .anneau { stroke-width: .6; stroke-opacity: .55; stroke-dasharray: 1; stroke-dashoffset: 1; animation: tracer 2.6s cubic-bezier(.6, 0, .2, 1) .3s forwards; }
 .sceau-fond .lettres { fill: var(--ivoire); opacity: 0; animation: apparaitre 2s ease 1.6s forwards; }
